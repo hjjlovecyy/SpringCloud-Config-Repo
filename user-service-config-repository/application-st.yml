@@ -1,0 +1,4 @@
+configFile: user-service st version
+user:
+  username: 张三st
+  password: zhangsanst123

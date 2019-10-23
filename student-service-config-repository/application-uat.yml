@@ -1,0 +1,4 @@
+configFile: student-service uat version
+user:
+  username: 李四uat
+  password: lisiuat123

@@ -1,0 +1,4 @@
+configFile: user-service dev version
+user:
+  username: 张三dev
+  password: zhangsandev123

@@ -1,0 +1,4 @@
+configFile: student-service dev version
+user:
+  username: 李四dev
+  password: lisidev123

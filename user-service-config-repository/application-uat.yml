@@ -1,0 +1,4 @@
+configFile: user-service uat version
+user:
+  username: 张三uat
+  password: zhangsanuat123
